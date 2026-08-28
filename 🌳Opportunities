@@ -1,0 +1,528 @@
+{
+  "data": {
+    "boards": [
+      {
+        "columns": [
+          {
+            "id": "name",
+            "title": "Name",
+            "type": "name"
+          },
+          {
+            "id": "color_mkqjty6z",
+            "title": "Pipeline Stage",
+            "type": "status"
+          },
+          {
+            "id": "color_mm5eeaah",
+            "title": "Lasso Trigger",
+            "type": "status"
+          },
+          {
+            "id": "numeric_mkvyfd11",
+            "title": "Opportunity Amount",
+            "type": "numbers"
+          },
+          {
+            "id": "deal_close_probability",
+            "title": "Probability",
+            "type": "numbers"
+          },
+          {
+            "id": "board_relation_mm4tc58k",
+            "title": "Task Items",
+            "type": "board_relation"
+          },
+          {
+            "id": "text_mm194fd0",
+            "title": "Notes",
+            "type": "text"
+          },
+          {
+            "id": "subitems",
+            "title": "Tasks",
+            "type": "subtasks"
+          },
+          {
+            "id": "lookup_mkzshvp3",
+            "title": "Booths Weighted Value",
+            "type": "mirror"
+          },
+          {
+            "id": "date_mm03136p",
+            "title": "Proposal Due",
+            "type": "date"
+          },
+          {
+            "id": "date_mm4thee3",
+            "title": "Proposal Sent",
+            "type": "date"
+          },
+          {
+            "id": "date_mm4tmryq",
+            "title": "Response Date",
+            "type": "date"
+          },
+          {
+            "id": "color_mm17m676",
+            "title": "Group By",
+            "type": "status"
+          },
+          {
+            "id": "formula_mm2wnd7v",
+            "title": "Weighted Value",
+            "type": "formula"
+          },
+          {
+            "id": "dropdown_mm4tw66t",
+            "title": "Event Type",
+            "type": "dropdown"
+          },
+          {
+            "id": "color_mkwya57p",
+            "title": "Event History",
+            "type": "status"
+          },
+          {
+            "id": "color_mkwyh6th",
+            "title": "Event Cadence",
+            "type": "status"
+          },
+          {
+            "id": "color_mm0yvcfe",
+            "title": "Proposal Type",
+            "type": "status"
+          },
+          {
+            "id": "color_mm34rrs5",
+            "title": "Proposal History",
+            "type": "status"
+          },
+          {
+            "id": "deal_owner",
+            "title": "EP / AM",
+            "type": "people"
+          },
+          {
+            "id": "text_mkt5d05a",
+            "title": "Project Book Link",
+            "type": "text"
+          },
+          {
+            "id": "multiple_person_mks05xkj",
+            "title": "CSD",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm0yn48t",
+            "title": "TD",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm03314h",
+            "title": "Designer",
+            "type": "people"
+          },
+          {
+            "id": "board_relation_mm5z6zz8",
+            "title": "Fab Management",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm5zvd3y",
+            "title": "Fab Team",
+            "type": "mirror"
+          },
+          {
+            "id": "multiple_person_mm52jm91",
+            "title": "Creative",
+            "type": "people"
+          },
+          {
+            "id": "board_relation_mkra49px",
+            "title": "🔗🏢 Account",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm50xa0w",
+            "title": "Account Status",
+            "type": "mirror"
+          },
+          {
+            "id": "text_mky93vbg",
+            "title": "GRB ID",
+            "type": "text"
+          },
+          {
+            "id": "link_mkvyfv0s",
+            "title": "FlippingBook",
+            "type": "link"
+          },
+          {
+            "id": "numeric_mm4tjrex",
+            "title": "Estimated Margin",
+            "type": "numbers"
+          },
+          {
+            "id": "date_mkwtttfc",
+            "title": "Proposal Won / Lost Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mm343sn",
+            "title": "Closed Opp Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkxba6b3",
+            "title": "Invoice Date",
+            "type": "date"
+          },
+          {
+            "id": "text_mkx7qs12",
+            "title": "Projectbook #",
+            "type": "text"
+          },
+          {
+            "id": "date_mkwtndz2",
+            "title": "Install Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkv7n81x",
+            "title": "Start Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkv7qsxh",
+            "title": "End Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkwtrj4f",
+            "title": "Strike Date",
+            "type": "date"
+          },
+          {
+            "id": "formula_mkx7xnn0",
+            "title": "Year",
+            "type": "formula"
+          },
+          {
+            "id": "timerange_mm13nh3x",
+            "title": "Event Show Dates",
+            "type": "timeline"
+          },
+          {
+            "id": "board_relation_mkra7650",
+            "title": "🔗🗣️ Referrer",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mkqsvdx7",
+            "title": "🔗 👤 Contacts",
+            "type": "board_relation"
+          },
+          {
+            "id": "color_mkqjyb0w",
+            "title": "Billing Status",
+            "type": "status"
+          },
+          {
+            "id": "color_mkxbv23k",
+            "title": "SOW Status",
+            "type": "status"
+          },
+          {
+            "id": "link_mm64f6fr",
+            "title": "Link to SOW",
+            "type": "link"
+          },
+          {
+            "id": "color_mm4sv50h",
+            "title": "Loss Reason",
+            "type": "status"
+          },
+          {
+            "id": "dropdown_mm4t61k0",
+            "title": "Negotiation Reason",
+            "type": "dropdown"
+          },
+          {
+            "id": "text_mm4tanhz",
+            "title": "Negotiation Details",
+            "type": "text"
+          },
+          {
+            "id": "numeric_mm4t31zs",
+            "title": "Negotiation Amount",
+            "type": "numbers"
+          },
+          {
+            "id": "date_mm4t87tr",
+            "title": "Negotiation Deadline",
+            "type": "date"
+          },
+          {
+            "id": "numeric_mkxbrahy",
+            "title": "Payment Amount",
+            "type": "numbers"
+          },
+          {
+            "id": "numeric_mkxb4qct",
+            "title": "Payment Terms",
+            "type": "numbers"
+          },
+          {
+            "id": "numeric_mkxb3397",
+            "title": "Aged Days",
+            "type": "numbers"
+          },
+          {
+            "id": "date_mkxb7x15",
+            "title": "Payment Date",
+            "type": "date"
+          },
+          {
+            "id": "text_mkxbccz",
+            "title": "Admin Notes",
+            "type": "text"
+          },
+          {
+            "id": "lookup_mkrkt4ed",
+            "title": "Billing Milestones",
+            "type": "mirror"
+          },
+          {
+            "id": "direct_doc_mkrfdvz2",
+            "title": "monday Doc v2",
+            "type": "direct_doc"
+          },
+          {
+            "id": "pulse_log_mks4b4sy",
+            "title": "Creation log",
+            "type": "creation_log"
+          },
+          {
+            "id": "pulse_updated_mksgmz4r",
+            "title": "Last updated",
+            "type": "last_updated"
+          },
+          {
+            "id": "text_mkt5j9p6",
+            "title": "Initial Estimate",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5ca3j",
+            "title": "Planned Attendance",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5wp9k",
+            "title": "Booked Spaces",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt52cfx",
+            "title": "SSI Project Scope",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5sfg5",
+            "title": "Venue Name",
+            "type": "text"
+          },
+          {
+            "id": "text_mm17x6pe",
+            "title": "Venue Street Address",
+            "type": "text"
+          },
+          {
+            "id": "text_mm17b2rp",
+            "title": "Venue City",
+            "type": "text"
+          },
+          {
+            "id": "text_mm17jq33",
+            "title": "Venue State",
+            "type": "text"
+          },
+          {
+            "id": "text_mm173xgb",
+            "title": "Venue Zip Code",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5jktt",
+            "title": "If Project Was Lost Why",
+            "type": "text"
+          },
+          {
+            "id": "custom_mm22j0bb",
+            "title": "Quotes & Invoices",
+            "type": "unsupported"
+          },
+          {
+            "id": "board_relation_mm3cvatb",
+            "title": "link to 2026 Lou Ellen TYD",
+            "type": "board_relation"
+          },
+          {
+            "id": "formula_mm44p4tk",
+            "title": "Next 90 Days",
+            "type": "formula"
+          },
+          {
+            "id": "board_relation_mm4m4bkb",
+            "title": "link to Proposal Intake (Creative Services)",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm4mp8tg",
+            "title": "Intake – Request Type",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4mgwjh",
+            "title": "Intake – Event Type",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4mpjd2",
+            "title": "Intake – Primary Event Objective",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4mb4z0",
+            "title": "Intake – Creative Scope",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4m5939",
+            "title": "Intake – Event Description",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4mvxqs",
+            "title": "Intake – Production Requirements",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4m320j",
+            "title": "Intake – Special Elements",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4m3k2f",
+            "title": "Intake – Brand Guidelines Available?",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4mejak",
+            "title": "Intake – Creative Direction Notes",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4m1vt4",
+            "title": "Intake – Known Risks / Challenges",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4m1wb0",
+            "title": "Intake – Additional Notes",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm4m8wpa",
+            "title": "Intake – Request Date",
+            "type": "mirror"
+          },
+          {
+            "id": "duration_mm4s8fzq",
+            "title": "Stage Required",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm4seay3",
+            "title": "Qualification",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm4s5y04",
+            "title": "Creative Intake",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm4sk305",
+            "title": "Proposal Dev",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm4skxd4",
+            "title": "Proposal Sent",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm4sqkqt",
+            "title": "Negotiation",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm4sbqjk",
+            "title": "Contracting",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm4sc8y0",
+            "title": "Time to Close",
+            "type": "time_tracking"
+          },
+          {
+            "id": "formula_mm4wd28k",
+            "title": "Event Name",
+            "type": "formula"
+          },
+          {
+            "id": "date_mm51eesd",
+            "title": "Follow-up Date",
+            "type": "date"
+          },
+          {
+            "id": "long_text_mm5190w0",
+            "title": "Next Step",
+            "type": "long_text"
+          },
+          {
+            "id": "link_mm5r6evz",
+            "title": "Proposal Request Link",
+            "type": "link"
+          },
+          {
+            "id": "board_relation_mm5w4m3e",
+            "title": "link to SSI Crew Schedule",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mm5w5k8n",
+            "title": "link to Subitems of SSI Crew Schedule",
+            "type": "board_relation"
+          },
+          {
+            "id": "date_mm5z103c",
+            "title": "Won/Lost Date (Pipeline)",
+            "type": "date"
+          },
+          {
+            "id": "board_relation_mm646098",
+            "title": "link to 2026 Lou Ellen YTD",
+            "type": "board_relation"
+          }
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "request_id": "de21096c-310e-9fd9-8dfb-cb8da4627caa"
+  }
+}
