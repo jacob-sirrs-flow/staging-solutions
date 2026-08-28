@@ -1,0 +1,408 @@
+{
+  "data": {
+    "boards": [
+      {
+        "columns": [
+          {
+            "id": "name",
+            "title": "Name",
+            "type": "name"
+          },
+          {
+            "id": "subtasks_mkv25t4p",
+            "title": "Subitems",
+            "type": "subtasks"
+          },
+          {
+            "id": "board_relation_mkqswpz",
+            "title": "🔗 Account",
+            "type": "board_relation"
+          },
+          {
+            "id": "color_mm3rwsfb",
+            "title": "Address Verified",
+            "type": "status"
+          },
+          {
+            "id": "multiple_person_mktt4qpy",
+            "title": "Lead Owners",
+            "type": "people"
+          },
+          {
+            "id": "color_mm1m3zej",
+            "title": "Contact Status",
+            "type": "status"
+          },
+          {
+            "id": "color_mkt35vr",
+            "title": "Contact Role",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mm2kk4qg",
+            "title": "Action Items",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm1ath3q",
+            "title": "Account Status",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm2ckwwm",
+            "title": "Account Type",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm2gsxbr",
+            "title": "ICP Status",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm1ape64",
+            "title": "Associated With",
+            "type": "mirror"
+          },
+          {
+            "id": "contact_email",
+            "title": "Email",
+            "type": "email"
+          },
+          {
+            "id": "dropdown_mm2ds891",
+            "title": "Contact List",
+            "type": "dropdown"
+          },
+          {
+            "id": "color_mm0nyzew",
+            "title": "Group By",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mkqsy9km",
+            "title": "🔗 Opportunities",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mkx0mpxp",
+            "title": "EP",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm145acv",
+            "title": "CSD",
+            "type": "mirror"
+          },
+          {
+            "id": "dropdown_mm14s9yj",
+            "title": "Internal Events",
+            "type": "dropdown"
+          },
+          {
+            "id": "color_mkvwykpc",
+            "title": "Client Gift Tier",
+            "type": "status"
+          },
+          {
+            "id": "contact_phone",
+            "title": "Phone",
+            "type": "phone"
+          },
+          {
+            "id": "text_mktta0eq",
+            "title": "Lead Owner",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5hvbh",
+            "title": "Submission Email Address",
+            "type": "text"
+          },
+          {
+            "id": "text_mkr9qvtt",
+            "title": "Title",
+            "type": "text"
+          },
+          {
+            "id": "text_mm17wd5w",
+            "title": "LinkedIn",
+            "type": "text"
+          },
+          {
+            "id": "text_mkr9jgj3",
+            "title": "📍 Address",
+            "type": "text"
+          },
+          {
+            "id": "text_mkttnqw8",
+            "title": "Opportunity",
+            "type": "text"
+          },
+          {
+            "id": "board_relation_mkrn7h8q",
+            "title": "🔗 🌱 Leads",
+            "type": "board_relation"
+          },
+          {
+            "id": "numeric_mkrpxzfr",
+            "title": "🤖🌱 Lead ID",
+            "type": "numbers"
+          },
+          {
+            "id": "board_relation_mksahedj",
+            "title": "link to 📅 Fathom Meetings",
+            "type": "board_relation"
+          },
+          {
+            "id": "text_mkt53qj7",
+            "title": "Direct Phone Number",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5vtdk",
+            "title": "Company Phone Number",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5cntb",
+            "title": "First Name",
+            "type": "text"
+          },
+          {
+            "id": "text_mkt5mxza",
+            "title": "Last Name",
+            "type": "text"
+          },
+          {
+            "id": "formula_mkvwt0tp",
+            "title": "Contact Name",
+            "type": "formula"
+          },
+          {
+            "id": "text_mkt5yd3g",
+            "title": "Industry",
+            "type": "text"
+          },
+          {
+            "id": "color_mkt5jnek",
+            "title": "COI",
+            "type": "status"
+          },
+          {
+            "id": "text_mkttakhp",
+            "title": "Office Phone Number",
+            "type": "text"
+          },
+          {
+            "id": "text_mkttj37j",
+            "title": "Mobile Phone",
+            "type": "text"
+          },
+          {
+            "id": "text_mktthf4f",
+            "title": "City",
+            "type": "text"
+          },
+          {
+            "id": "text_mktt4xpa",
+            "title": "State",
+            "type": "text"
+          },
+          {
+            "id": "text_mktts2vq",
+            "title": "Lead Status",
+            "type": "text"
+          },
+          {
+            "id": "color_mkvfv3v3",
+            "title": "Holiday Gift List",
+            "type": "status"
+          },
+          {
+            "id": "contactsddcc6aaf47",
+            "title": "Marketing Status",
+            "type": "status"
+          },
+          {
+            "id": "pulse_log_mkxp7wdp",
+            "title": "Creation log",
+            "type": "creation_log"
+          },
+          {
+            "id": "pulse_updated_mm0nxj22",
+            "title": "Last updated",
+            "type": "last_updated"
+          },
+          {
+            "id": "direct_doc_mm0nxh0w",
+            "title": "monday Doc v2",
+            "type": "direct_doc"
+          },
+          {
+            "id": "text_mm0nq1yz",
+            "title": "Number of in-person meetings & events hosted annually:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0n196g",
+            "title": "Need",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0n7ny5",
+            "title": "Property scale used for meetings & events:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0ne41a",
+            "title": "Types of in-person meetings & events hosted:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0n52n7",
+            "title": "Attendance ranges for in-person meetings & events:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0ndyx1",
+            "title": "Peak-room nights:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0nem2",
+            "title": "Quick notes",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0nsfqb",
+            "title": "Description",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0n3qqp",
+            "title": "Zip",
+            "type": "text"
+          },
+          {
+            "id": "color_mm0nx4b7",
+            "title": "Connection",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mm0n86qw",
+            "title": "link to 🏢 Organizations",
+            "type": "board_relation"
+          },
+          {
+            "id": "long_text_mm0ndgcs",
+            "title": "Notes",
+            "type": "long_text"
+          },
+          {
+            "id": "duration_mm0nrbjd",
+            "title": "🤖 Avg. Qualifying time",
+            "type": "time_tracking"
+          },
+          {
+            "id": "duration_mm0n979f",
+            "title": "🤖 Avg Reach out time",
+            "type": "time_tracking"
+          },
+          {
+            "id": "date_mm0nstp3",
+            "title": "📅 Qualified",
+            "type": "date"
+          },
+          {
+            "id": "color_mm0n8e65",
+            "title": "Follow Up",
+            "type": "status"
+          },
+          {
+            "id": "date_mm0nz2rm",
+            "title": "📅 Last Updated",
+            "type": "date"
+          },
+          {
+            "id": "date_mm0n1qry",
+            "title": "📅 Follow Up",
+            "type": "date"
+          },
+          {
+            "id": "date_mm0nrz7c",
+            "title": "📅 Lead",
+            "type": "date"
+          },
+          {
+            "id": "text_mm0n369s",
+            "title": "Website",
+            "type": "text"
+          },
+          {
+            "id": "color_mm0nkkq7",
+            "title": "Health",
+            "type": "status"
+          },
+          {
+            "id": "dropdown_mm0n1g9a",
+            "title": "Intake Source",
+            "type": "dropdown"
+          },
+          {
+            "id": "date_mm5e7xe2",
+            "title": "Follow Up Date",
+            "type": "date"
+          },
+          {
+            "id": "dropdown_mm5e1725",
+            "title": "Next Steps",
+            "type": "dropdown"
+          },
+          {
+            "id": "board_relation_mm0nx31j",
+            "title": "🧭 Accounts",
+            "type": "board_relation"
+          },
+          {
+            "id": "text_mm0n99sv",
+            "title": "Country",
+            "type": "text"
+          },
+          {
+            "id": "board_relation_mm16r9ak",
+            "title": "👤Contacts",
+            "type": "board_relation"
+          },
+          {
+            "id": "color_mm16agan",
+            "title": "Duplicate",
+            "type": "status"
+          },
+          {
+            "id": "color_mm16jgxp",
+            "title": "Status",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mm179v67",
+            "title": "Link to Exhibit Booth",
+            "type": "board_relation"
+          },
+          {
+            "id": "dropdown_mm2g4bf7",
+            "title": "Contact Gifts",
+            "type": "dropdown"
+          },
+          {
+            "id": "board_relation_mm2xw32w",
+            "title": "link to GRB Momentus List",
+            "type": "board_relation"
+          }
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "request_id": "ab6384e3-ccb9-9ac9-a71a-252727727206"
+  }
+}
