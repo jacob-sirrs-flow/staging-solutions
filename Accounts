@@ -1,0 +1,243 @@
+{
+  "data": {
+    "boards": [
+      {
+        "columns": [
+          {
+            "id": "name",
+            "title": "Name",
+            "type": "name"
+          },
+          {
+            "id": "multiple_person_mm2derc1",
+            "title": "EP/AM",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm338t4p",
+            "title": "CSD",
+            "type": "people"
+          },
+          {
+            "id": "color_mm0n1adm",
+            "title": "Account Status",
+            "type": "status"
+          },
+          {
+            "id": "status",
+            "title": "Account Type",
+            "type": "status"
+          },
+          {
+            "id": "color_mm21yh4c",
+            "title": "ICP Status",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mkqsh282",
+            "title": "🔗 Contacts",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm1z8zsm",
+            "title": "Contact Status",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm16pcnt",
+            "title": "Contact Owners",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mkqsy8fh",
+            "title": "Contact Email",
+            "type": "mirror"
+          },
+          {
+            "id": "board_relation_mkt5r3dj",
+            "title": "Associated With",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mm2e3jwp",
+            "title": "👤Referred By",
+            "type": "board_relation"
+          },
+          {
+            "id": "color_mm2djj5c",
+            "title": "CSD Tracking",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mkra5rqn",
+            "title": "🔗 🌳Opportunities",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm1qcwz2",
+            "title": "Op Stages",
+            "type": "mirror"
+          },
+          {
+            "id": "text_mks6v4j4",
+            "title": "Email Domain",
+            "type": "text"
+          },
+          {
+            "id": "industry",
+            "title": "Industry",
+            "type": "dropdown"
+          },
+          {
+            "id": "headquarters_loc",
+            "title": "Headquarters location",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0nk6sf",
+            "title": "City",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0n2wex",
+            "title": "State",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0n1154",
+            "title": "Zip",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0nbbj4",
+            "title": "Country",
+            "type": "text"
+          },
+          {
+            "id": "location_mm0n53st",
+            "title": "Location",
+            "type": "location"
+          },
+          {
+            "id": "company_description",
+            "title": "Description",
+            "type": "long_text"
+          },
+          {
+            "id": "company_profile",
+            "title": "Company profile",
+            "type": "link"
+          },
+          {
+            "id": "lookup_mm1mfb1y",
+            "title": "Opp History",
+            "type": "mirror"
+          },
+          {
+            "id": "subtasks_mkr8f6ds",
+            "title": "Subitems",
+            "type": "subtasks"
+          },
+          {
+            "id": "lookup_mks59yp0",
+            "title": "Won Opp Flag",
+            "type": "mirror"
+          },
+          {
+            "id": "pulse_log_mkshrv0s",
+            "title": "Creation log",
+            "type": "creation_log"
+          },
+          {
+            "id": "text_mm0n6r3a",
+            "title": "Peak-room nights:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0nz9mk",
+            "title": "Attendance ranges for in-person meetings & events:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0nzahs",
+            "title": "Types of in-person meetings & events hosted:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0naaw2",
+            "title": "Property scale used for meetings & events:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0ndbnx",
+            "title": "Number of in-person meetings & events hosted annually:",
+            "type": "text"
+          },
+          {
+            "id": "text_mm0nf1ch",
+            "title": "Activity Type",
+            "type": "text"
+          },
+          {
+            "id": "text_mkwsbnnr",
+            "title": "Partner Structure",
+            "type": "text"
+          },
+          {
+            "id": "text_mkwsgkx",
+            "title": "Tax Exempt",
+            "type": "text"
+          },
+          {
+            "id": "color_mm0n2x60",
+            "title": "Client Gift Tier",
+            "type": "status"
+          },
+          {
+            "id": "numeric_mm0nbgrq",
+            "title": "Estimated Value",
+            "type": "numbers"
+          },
+          {
+            "id": "color_mm0ncrb7",
+            "title": "Group by",
+            "type": "status"
+          },
+          {
+            "id": "color_mm14fqgt",
+            "title": "Duplicate",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mm146vz5",
+            "title": "Accounts",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mm17r574",
+            "title": "link to Subitems of 🌳Opportunities",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mm1anedk",
+            "title": "Exhibit Account",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mm2v5tq7",
+            "title": "Action Items",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mm2xrb29",
+            "title": "link to GRB Momentus List",
+            "type": "board_relation"
+          }
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "request_id": "0a089fcf-c8f8-9665-98ff-ae83902373ec"
+  }
+}
