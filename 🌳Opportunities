@@ -1,0 +1,372 @@
+{
+  "data": {
+    "boards": [
+      {
+        "columns": [
+          {
+            "id": "name",
+            "title": "Name",
+            "type": "name"
+          },
+          {
+            "id": "board_relation_mkra49px",
+            "title": "🔗🎯 Target Account",
+            "type": "board_relation"
+          },
+          {
+            "id": "board_relation_mm8y6gze",
+            "title": "🔗🏢 Accounts",
+            "type": "board_relation"
+          },
+          {
+            "id": "color_mkqjty6z",
+            "title": "Pipeline Stage",
+            "type": "status"
+          },
+          {
+            "id": "numeric_mkvyfd11",
+            "title": "Opportunity Amount",
+            "type": "numbers"
+          },
+          {
+            "id": "multiple_person_mks05xkj",
+            "title": "CSD",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm8gta0y",
+            "title": "Creative Strategy",
+            "type": "people"
+          },
+          {
+            "id": "deal_owner",
+            "title": "EP",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm8vqjq8",
+            "title": "AM",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm0yn48t",
+            "title": "TD / PM",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm03314h",
+            "title": "Designer",
+            "type": "people"
+          },
+          {
+            "id": "multiple_person_mm70gs0r",
+            "title": "Fabrication",
+            "type": "people"
+          },
+          {
+            "id": "numeric_mm72wghf",
+            "title": "Lasso Opp Total",
+            "type": "numbers"
+          },
+          {
+            "id": "deal_close_probability",
+            "title": "Probability",
+            "type": "numbers"
+          },
+          {
+            "id": "deal_stage",
+            "title": "Generate In Lasso",
+            "type": "status"
+          },
+          {
+            "id": "board_relation_mm4tc58k",
+            "title": "Task Items",
+            "type": "board_relation"
+          },
+          {
+            "id": "text_mm194fd0",
+            "title": "Notes",
+            "type": "text"
+          },
+          {
+            "id": "subitems",
+            "title": "Tasks",
+            "type": "subtasks"
+          },
+          {
+            "id": "lookup_mm7xmkfk",
+            "title": "Subitems Opportunity Amount",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mkzshvp3",
+            "title": "Booths Weighted Value",
+            "type": "mirror"
+          },
+          {
+            "id": "date_mm03136p",
+            "title": "Proposal Due",
+            "type": "date"
+          },
+          {
+            "id": "date_mm4thee3",
+            "title": "Proposal Sent",
+            "type": "date"
+          },
+          {
+            "id": "color_mm17m676",
+            "title": "Group By",
+            "type": "status"
+          },
+          {
+            "id": "formula_mm2wnd7v",
+            "title": "Weighted Value",
+            "type": "formula"
+          },
+          {
+            "id": "dropdown_mm4tw66t",
+            "title": "SSI Scope",
+            "type": "dropdown"
+          },
+          {
+            "id": "color_mkwyh6th",
+            "title": "Event Cadence",
+            "type": "status"
+          },
+          {
+            "id": "color_mkwya57p",
+            "title": "SSI Opportunity History",
+            "type": "status"
+          },
+          {
+            "id": "color_mm0yvcfe",
+            "title": "Proposal Type",
+            "type": "status"
+          },
+          {
+            "id": "text_mkt5d05a",
+            "title": "Project Book Link",
+            "type": "text"
+          },
+          {
+            "id": "board_relation_mm5z6zz8",
+            "title": "Fab Management",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm5zvd3y",
+            "title": "Fab Team",
+            "type": "mirror"
+          },
+          {
+            "id": "multiple_person_mm52jm91",
+            "title": "Creative",
+            "type": "people"
+          },
+          {
+            "id": "board_relation_mm7ynjzf",
+            "title": "link to 🎯 Target Account",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm7zq5yn",
+            "title": "🪞Account Contact",
+            "type": "mirror"
+          },
+          {
+            "id": "board_relation_mkqsvdx7",
+            "title": "🔗 👤 Contacts",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm8y49h6",
+            "title": "🪞🏢 Account Contact",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm6r3mz7",
+            "title": "Account ID",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm50xa0w",
+            "title": "Account Status",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm8y23ps",
+            "title": "🪞🏢Account ID",
+            "type": "mirror"
+          },
+          {
+            "id": "lookup_mm8yb6zh",
+            "title": "🪞🏢Account Status",
+            "type": "mirror"
+          },
+          {
+            "id": "text_mky93vbg",
+            "title": "GRB ID",
+            "type": "text"
+          },
+          {
+            "id": "link_mm6rbxzn",
+            "title": "LASSO Link",
+            "type": "link"
+          },
+          {
+            "id": "link_mkvyfv0s",
+            "title": "FlippingBook",
+            "type": "link"
+          },
+          {
+            "id": "numeric_mm4tjrex",
+            "title": "Estimated Margin",
+            "type": "numbers"
+          },
+          {
+            "id": "date_mkwtttfc",
+            "title": "Proposal Won / Lost Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mm343sn",
+            "title": "Closed Opp Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkxba6b3",
+            "title": "Invoice Date",
+            "type": "date"
+          },
+          {
+            "id": "text_mkx7qs12",
+            "title": "Unique ID",
+            "type": "text"
+          },
+          {
+            "id": "date_mkwtndz2",
+            "title": "Install Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkv7n81x",
+            "title": "Start Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkv7qsxh",
+            "title": "End Date",
+            "type": "date"
+          },
+          {
+            "id": "date_mkwtrj4f",
+            "title": "Strike Date",
+            "type": "date"
+          },
+          {
+            "id": "formula_mkx7xnn0",
+            "title": "Year",
+            "type": "formula"
+          },
+          {
+            "id": "timerange_mm13nh3x",
+            "title": "Event Show Dates",
+            "type": "timeline"
+          },
+          {
+            "id": "board_relation_mkra7650",
+            "title": "🔗🗣️ Referrer",
+            "type": "board_relation"
+          },
+          {
+            "id": "lookup_mm6rjewg",
+            "title": "Contact(s) ID",
+            "type": "mirror"
+          },
+          {
+            "id": "color_mkqjyb0w",
+            "title": "Billing Status",
+            "type": "status"
+          },
+          {
+            "id": "color_mkxbv23k",
+            "title": "SOW Status",
+            "type": "status"
+          },
+          {
+            "id": "link_mm64f6fr",
+            "title": "Link to SOW",
+            "type": "link"
+          },
+          {
+            "id": "color_mm4sv50h",
+            "title": "Loss Reason",
+            "type": "status"
+          },
+          {
+            "id": "dropdown_mm4t61k0",
+            "title": "Negotiation Reason",
+            "type": "dropdown"
+          },
+          {
+            "id": "text_mm4tanhz",
+            "title": "Negotiation Details",
+            "type": "text"
+          },
+          {
+            "id": "numeric_mm4t31zs",
+            "title": "Negotiation Amount",
+            "type": "numbers"
+          },
+          {
+            "id": "date_mm4t87tr",
+            "title": "Negotiation Deadline",
+            "type": "date"
+          },
+          {
+            "id": "numeric_mkxbrahy",
+            "title": "Payment Amount",
+            "type": "numbers"
+          },
+          {
+            "id": "numeric_mkxb4qct",
+            "title": "Payment Terms",
+            "type": "numbers"
+          },
+          {
+            "id": "numeric_mkxb3397",
+            "title": "Aged Days",
+            "type": "numbers"
+          },
+          {
+            "id": "date_mkxb7x15",
+            "title": "Payment Date",
+            "type": "date"
+          },
+          {
+            "id": "text_mkxbccz",
+            "title": "Admin Notes",
+            "type": "text"
+          },
+          {
+            "id": "lookup_mkrkt4ed",
+            "title": "Billing Milestones",
+            "type": "mirror"
+          },
+          {
+            "id": "direct_doc_mkrfdvz2",
+            "title": "monday Doc v2",
+            "type": "direct_doc"
+          },
+          {
+            "id": "pulse_log_mks4b4sy",
+            "title": "Creation log",
+            "type": "creation_log"
+          },
+          {
+            "id": "pulse_updated_mksgmz4r",
+            "title": "Last updated",
+            "type": "last_updated"
+          },
+          {
+            "id":
